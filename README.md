@@ -34,6 +34,13 @@ Download the required `'ArnoldC.jar'` file.
 
 ```powershell
 > java IsEven
+1
+```
+
+The number you are checking (if it is even or not) is located at the end of line #6.
+
+```text
+DO IT NOW ISEVEN 0|1|2|3|etc
 ```
 
 ## A Simple Example: Hello World
